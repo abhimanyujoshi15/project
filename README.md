@@ -1,4 +1,4 @@
 # firstproject
 this is my first project
 # developed by
-abhimanyu joshi
+abhimanyu dinesh joshi
